@@ -8,6 +8,7 @@ public class Cosa {
 		System.out.println("y");
 		System.out.println("Hola a todas");
 		System.out.println("Algo");
+		System.out.println("Algo 2.0");
 	}
 
 }
